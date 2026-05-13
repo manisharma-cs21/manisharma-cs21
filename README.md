@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mani Sharma
 
-🚀 Backend Engineer focused on building scalable systems and high-performance applications.
+ Backend Engineer focused on building scalable systems and high-performance applications.
 
 ---
 
